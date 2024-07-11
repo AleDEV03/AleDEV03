@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">Thank you for read!</p>
+<p align="center">Thank you for reading!</p>
 
 ###
 
